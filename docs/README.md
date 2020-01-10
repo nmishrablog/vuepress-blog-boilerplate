@@ -1,8 +1,8 @@
 ---
 home: true
-heroImage: /vuepress-blog-logo.png
-heroText: VuePress Blog Boilerplate
-tagline: An ever-evolving and opinionated dev environment for people who want to use VuePress to power their blogs.
+heroImage: /
+heroText: Wisdom Curated
+tagline: Human curated, timely and concise.
 actionText: Get Started →
 actionLink: /learn/
 features:
@@ -14,3 +14,4 @@ features:
   details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop your theme with Vue
 footer: MIT Licensed | Created by BenCodeZen
 ---
+Charter Cities 
